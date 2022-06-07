@@ -2,32 +2,32 @@
   "project_info": {
     "project_number": "979348683612",
     "project_id": "task-a9c13",
-    "storage_bucket": "task-a9c13.appspot.com"
+    "storage_bucket": "hid it as repo is public"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:979348683612:android:ad703b57cecf2f3ee4df99",
+        "mobilesdk_app_id": "hid it as repo is public",
         "android_client_info": {
           "package_name": "com.netmaxim"
         }
       },
       "oauth_client": [
         {
-          "client_id": "979348683612-6fo6trp7020cjcopmlejddtsajddc4r3.apps.googleusercontent.com",
+          "client_id": "hid it as repo is public",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCsUpUY-S0iWz-HNVI6xsObLbIrMRKWB_I"
+          "current_key": "hid it as repo is publicI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "979348683612-6fo6trp7020cjcopmlejddtsajddc4r3.apps.googleusercontent.com",
+              "client_id": "hid it as repo is public",
               "client_type": 3
             }
           ]
