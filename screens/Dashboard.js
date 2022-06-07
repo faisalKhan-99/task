@@ -43,7 +43,7 @@ const Dashboard = ({ navigation, route }) => {
     const fetchSkillData = () => {
         axios({
             method: 'POST',
-            url: 'https://app.uspeek.imaxims.com/v1/dashboard',
+            url: 'https://app.hid it as repo is public',
             data: {
                 user_id: user_id
             },
