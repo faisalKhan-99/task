@@ -38,7 +38,7 @@ const Dashboard = ({ navigation, route }) => {
     const [bodyScore,setBodyScore] = useState(0)
     const [vocalScore,setVocalScore] = useState(0)
     const[wordPower,setWordPower] = useState(0)
-    const [user_id, setUserID] = useState(3);
+    const [user_id, setUserID] = useState(3); //isnt dynamic yet, the loaders on the animation are dynamic.
 
     const fetchSkillData = () => {
         axios({
